@@ -30,6 +30,8 @@
 <h3>Spring Boot</h3>
 <h3>Libraries Used : Spring MVC, Spring Data, Spring Security</h3>
 <p>Spring Boot version 2.3.3.</p>
+<h3>Development Server</h3>
+Tomcat Server 9.0 used as backend server . Navigate to http://localhost:8080/
 <h3>Running unit tests</h3>
 Junit test cases use to test functions.
 <h3>Test APIs</h3>
